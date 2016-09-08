@@ -1,0 +1,34 @@
+---
+title: "git_01"
+author: "Math_116"
+date: "Fall semester"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Build a Poem with commits
+Our project will be done using a sequence of save and commits.
+
+## First Verse 
+<Put the first two verses of Jabberwocky by Lewis Carrol in this section>
+was brillig, and the slithy toves  
+  Did gyre and gimble in the wabe:  
+All mimsy were the borogoves,  
+  And the mome raths outgrabe.  
+  
+  Beware the Jabberwock, my son!  
+  The jaws that bite, the claws that catch!  
+Beware the Jubjub bird, and shun  
+  The frumious Bandersnatch!"  
+  
+
+## Second Verse
+<Put the first two verses of The Road Not Taken by Robert Frost here>
+
+## Third Verse
+<Put the first two verses of The Walrus and the Carpenter here>
+
+## Last Verse
+<Put a short poem of your choice 8-20 lines,here>
